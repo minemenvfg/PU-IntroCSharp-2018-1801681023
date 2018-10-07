@@ -1,0 +1,11 @@
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.0\TheUniqueNumber.deps.json
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.0\TheUniqueNumber.runtimeconfig.json
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.0\TheUniqueNumber.runtimeconfig.dev.json
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.0\TheUniqueNumber.dll
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.0\TheUniqueNumber.pdb
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.csprojAssemblyReference.cache
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.csproj.CoreCompileInputs.cache
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.AssemblyInfoInputs.cache
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.AssemblyInfo.cs
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.dll
+C:\Users\battl\Desktop\Projects\1stweek\PU-IntroCSharp-2018-1801681023-master\PUIntroHomeworks\PUIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.0\TheUniqueNumber.pdb
