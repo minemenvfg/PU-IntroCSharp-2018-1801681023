@@ -1,0 +1,7 @@
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe.config
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\bin\Debug\ExamPrep.pdb
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csprojAssemblyReference.cache
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\obj\Debug\ExamPrep.exe
+C:\Users\fmi\source\repos\ExamPrep\ExamPrep\obj\Debug\ExamPrep.pdb
